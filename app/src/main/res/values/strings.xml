@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuardNet Lite</string>
+    <!-- SPS TRAINING -->
+    <string name="btn">Button</string>
+    <string name="btn2">Increment button</string>
+    <string name="editmsg">Beer</string>
+    <!-- SPS TRAINING -->
+</resources>
